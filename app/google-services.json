@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69827971553",
+    "project_id": "teta-analytics",
+    "storage_bucket": "teta-analytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69827971553:android:893046eeadf3300a9eeaa0",
+        "android_client_info": {
+          "package_name": "ru.mts.teta.eliseev.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69827971553-oepia82igvsqk5sskb4aangmh1id4f56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CZq84XWxJt-FVw22gsu29icqo9xcPvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69827971553-oepia82igvsqk5sskb4aangmh1id4f56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
